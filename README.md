@@ -20,5 +20,6 @@ Proposed Solution
 - Power BI with the aid of conditional formatting would be used to visualize the dashboard
 
 scripts or store procedure should have the following ouput format
+
 ![image](https://github.com/lazakun/ops_checks_dashboard/assets/100403369/794d8436-812e-411d-b67c-cca078e1f454)
 
